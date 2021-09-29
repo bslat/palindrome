@@ -1,0 +1,23 @@
+{
+  "name": "bslat-palindrome",
+  "version": "0.1.0",
+  "description": "palindrome detector",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bslat/palindrome.git"
+  },
+  "keywords": [
+    "palindrome",
+    "javascript"
+  ],
+  "author": "b slat",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bslat/palindrome/issues"
+  },
+  "homepage": "https://github.com/bslat/palindrome#readme"
+}
